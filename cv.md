@@ -1,7 +1,7 @@
 ># Varden Adamchuk
 >### Frontend Developer
 
-**E-Mail:** varden.code@gmail.com\
+**E-Mail:** [varden.code@gmail.com](mailto:varden.code@gmail.com)\
 **Github:** [ivarden](https://github.com/ivarden)\
 **Twitter:** [@vardenadams](https://twitter.com/vardenadams)\
 **Discord:** [ivarden](https://discordapp.com/users/ivarden)
