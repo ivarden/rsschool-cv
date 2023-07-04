@@ -1,9 +1,9 @@
 ># Varden Adamchuk
 >### Frontend Developer
 
-**E-Mail:** varden.code@gmail.com
-**Github:** [ivarden](https://github.com/ivarden)
-**Twitter:** [@vardenadams](https://twitter.com/vardenadams)
+**E-Mail:** varden.code@gmail.com\
+**Github:** [ivarden](https://github.com/ivarden)\
+**Twitter:** [@vardenadams](https://twitter.com/vardenadams)\
 **Discord:** [ivarden](https://discordapp.com/users/ivarden)
 
 **Education:** Master degree in Pedagogy\
@@ -12,8 +12,7 @@
 
 ### Code examples
 
-[To-Do demo](https://todo-phi-eight.vercel.app/)
-[To-Do Github](https://github.com/ivarden/todo)
+[To-Do demo](https://todo-phi-eight.vercel.app/) / [To-Do Github](https://github.com/ivarden/todo)
 
 
 
